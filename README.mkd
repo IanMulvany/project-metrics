@@ -1,0 +1,21 @@
+
+# About.
+
+Ideas for creating a proejct dashboard for overviesing key metrics related to dev projects at eLife.
+
+## Burndown chart for Trello.
+
+- get number of cards per trello list for a particlular board
+- store this data weekly
+- make a dumb local plot
+- push this data into google docs
+- find a way to integrate this data into a dashboard tool like geckoboard
+
+
+## Resources
+
+http://chartbeat.com/demo/
+http://support.geckoboard.com/entries/22470403-microsoft-excel-spreadsheet
+http://www.geckoboard.com/plans-and-pricing/
+http://www.highcharts.com/demo/
+http://echobehind.wordpress.com/2012/06/28/create-your-own-burndown-chart-using-trello-api-and-google-apps-script/
